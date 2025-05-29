@@ -32,5 +32,5 @@ await conn.groupParticipantsUpdate(m.chat, [m.sender], 'remove')
 }}
 return !1
 }
-export default handler
+//export default handler
 
